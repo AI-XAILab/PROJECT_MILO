@@ -1,4 +1,4 @@
-# PROJECT_MILO - Version 1
+# PROJECT_MILO 
 
 A simple Python terminal chatbot using the official OpenAI SDK and Responses API.
 It remembers the conversation while running. History resets when you quit.
