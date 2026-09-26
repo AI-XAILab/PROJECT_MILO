@@ -3,6 +3,11 @@
 A simple Python terminal chatbot using the official OpenAI SDK and Responses API.
 It remembers the conversation while running. History resets when you quit.
 
+<p align="center">
+  <img src="assets/milo-cover.png" alt="PROJECT MILO" width="900">
+</p>
+
+
 ## Setup (Windows PowerShell)
 
 You need Python 3.10 or newer and an OpenAI API key with API billing/credits.
